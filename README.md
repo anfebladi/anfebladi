@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/">It Specialist</a>, High school Student
 
-<!--
-**anfebladi/anfebladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects Projects:</h2>
 
-Here are some ideas to get you started:
+<h2>✨ Certifications:</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZB76QYCBBZLI)
+
+<h2> 🤳 Connect with me:</h2>
+
+- [Linkedin](https://www.linkedin.com/in/andres-blanco-624151280/)
+
+
+
