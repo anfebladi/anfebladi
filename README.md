@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects Projects:</h2>
   
   - [Virtual Machine with VirtualBox](https://github.com/anfebladi/Virtual-Machine-with-VirtualBox)
+  - [Remote Access using Chrome Remote Desktop](https://github.com/anfebladi/Remote-Acess-with-Chrome-Remote-Acess)
 
 <h2>✨ Certifications:</h2> 
 
