@@ -4,6 +4,7 @@
   
   - [Virtual Machine with VirtualBox](https://github.com/anfebladi/Virtual-Machine-with-VirtualBox)
   - [Remote Access using Chrome Remote Desktop](https://github.com/anfebladi/Remote-Acess-with-Chrome-Remote-Acess)
+  -  [managing-files-and-directories-in-the-Linux-filesystem](https://github.com/anfebladi/-managing-files-and-directories-in-the-Linux-filesystem)
 
 <h2>✨ Certifications:</h2> 
 
