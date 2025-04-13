@@ -6,6 +6,8 @@
   - [Remote Access using Chrome Remote Desktop](https://github.com/anfebladi/Remote-Acess-with-Chrome-Remote-Acess)
   - [managing-files-and-directories-in-the-Linux-filesystem](https://github.com/anfebladi/-managing-files-and-directories-in-the-Linux-filesystem)
   - [standard-error-and-output-in-Linux](https://github.com/anfebladi/standard-error-and-output-in-Linux)
+  - [How to download content from web servers using wget in the Linux terminal.](https://github.com/anfebladi/Download-content-from-a-web-server-using-wget.)
+
 
 <h2>✨ Certifications:</h2> 
 
