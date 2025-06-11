@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/">It Specialist</a>, High school Student
+<h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/">It Specialist</a>, High school Student , Coder
 
 <h2>👨‍💻 IT Projects Projects:</h2>
   
