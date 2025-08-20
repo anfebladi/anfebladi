@@ -18,7 +18,7 @@
 
 <h2> 💻 Technical Skills </h2>
   <h4> Languages: </h4>
-    - Python, JavaScript, HTML/CSS, Bash
+    Python · JavaScript · HTML/CSS · Bash
   <h4> Frameworks: </h4>
     - React.js, Node.js, WebFlow, Bootstrap, Express.js
   <h4> Developer tools: </h4>
