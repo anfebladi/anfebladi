@@ -1,5 +1,12 @@
 <h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/"> Aspiring SWE </a> and CS major at UCSC 
 
+<h2>🕑 Coding Projects:</h2>
+
+  - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
+  - [Movie UI](https://github.com/anfebladi/MovieUI)
+  - [Roman Numeral Converter](https://github.com/anfebladi/RomanNumeral-Converter)
+
+
 <h2>👨‍💻 IT Projects:</h2>
   
   - [Virtual Machine with VirtualBox](https://github.com/anfebladi/Virtual-Machine-with-VirtualBox)
@@ -7,17 +14,8 @@
   - [managing-files-and-directories-in-the-Linux-filesystem](https://github.com/anfebladi/-managing-files-and-directories-in-the-Linux-filesystem)
   - [standard-error-and-output-in-Linux](https://github.com/anfebladi/standard-error-and-output-in-Linux)
   - [How to download content from web servers using wget in the Linux terminal.](https://github.com/anfebladi/Download-content-from-a-web-server-using-wget.)
-
-<h2>🕑 Coding Projects:</h2>
-
-  - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
-  - [Movie UI](https://github.com/anfebladi/MovieUI)
-  - [Roman Numeral Converter](https://github.com/anfebladi/RomanNumeral-Converter)
   
   
-  
-
-
 <h2>✨ Certifications:</h2> 
 
 - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZB76QYCBBZLI)
