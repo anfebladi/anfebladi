@@ -9,6 +9,7 @@
   - [How to download content from web servers using wget in the Linux terminal.](https://github.com/anfebladi/Download-content-from-a-web-server-using-wget.)
 
 <h2>🕑 Coding Projects:</h2>
+
   - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
   - [Movie UI](https://github.com/anfebladi/MovieUI)
   - [Roman Numeral Converter](https://github.com/anfebladi/RomanNumeral-Converter)
