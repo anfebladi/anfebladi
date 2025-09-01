@@ -5,6 +5,7 @@
   - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
   - [Movie UI](https://github.com/anfebladi/MovieUI)
   - [Roman Numeral Converter](https://github.com/anfebladi/RomanNumeral-Converter)
+  - [Movie App](https://github.com/anfebladi/Movie-Fetcher)
 
 
 <h2>👨‍💻 IT Projects:</h2>
