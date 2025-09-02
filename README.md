@@ -6,6 +6,8 @@
   - [Movie UI](https://github.com/anfebladi/MovieUI)
   - [Roman Numeral Converter](https://github.com/anfebladi/RomanNumeral-Converter)
   - [Movie Fetcher](https://github.com/anfebladi/Movie-Fetcher)
+  - [Blog App](https://github.com/anfebladi/Blog-App)
+    
 
 
 <h2>👨‍💻 IT Projects:</h2>
