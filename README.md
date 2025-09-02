@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/"> Aspiring SWE </a> and CS major at UCSC 
+<h1>Hi, I'm Andres! <br/><a href="https://github.com/AndresBlanco"href="https://www.linkedin.com/in/AndresBlanco/"> </a>  Aspiring SWE and CS major at UCSC 
 
 <h2>🕑 Coding Projects:</h2>
 
