@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andres! <br/>   Aspiring SWE and CS major
+<h1>Hi, I'm Andres! <br/>   Aspiring SWE and CS major at De Anza
 
 <h2>🕑 Coding Projects:</h2>
 
