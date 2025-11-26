@@ -3,8 +3,8 @@
 <h2>🕑 Coding Projects:</h2>
 
   - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
-  - [Movie UI](https://github.com/anfebladi/MovieUI)
-  - [Movie Fetcher](https://github.com/anfebladi/Movie-Fetcher)
+  - [Expense tracker](https://github.com/anfebladi/Expense_Tracker)
+  - [Fantasy Scout](https://github.com/anfebladi/copa-america)
   - [Blog App](https://github.com/anfebladi/Blog-App)
     
 
