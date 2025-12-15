@@ -3,7 +3,7 @@
 <h2>🕑 Coding Projects:</h2>
 
   - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
-  - [Expense tracker](https://github.com/anfebladi/Expense_Tracker)
+  - [AcadFinder](https://github.com/tthy-working/frontend)
   - [Fantasy Scout](https://github.com/anfebladi/copa-america)
   - [Blog App](https://github.com/anfebladi/Blog-App)
     
