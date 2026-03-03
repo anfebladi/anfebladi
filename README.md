@@ -2,22 +2,9 @@
 
 <h2>🕑 Coding Projects:</h2>
 
-  - [Discord Bot](https://github.com/anfebladi/Discord-Bot)
+  - [TraceX](https://github.com/anfebladi/context-provider-app)
   - [AcadFinder](https://github.com/tthy-working/frontend)
-  - [Fantasy Scout](https://github.com/anfebladi/copa-america)
-  - [Blog App](https://github.com/anfebladi/Blog-App)
-    
-
-
-<h2>👨‍💻 IT Projects:</h2>
-
-  - [standard-error-and-output-in-Linux](https://github.com/anfebladi/standard-error-and-output-in-Linux)
-  - [How to download content from web servers using wget in the Linux terminal.](https://github.com/anfebladi/Download-content-from-a-web-server-using-wget.)
-  
-  
-<h2>✨ Certifications:</h2> 
-
-- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZB76QYCBBZLI)
+  - [Rhythm ](https://github.com/anfebladi/period-tracker-app)
 
 <h2> 💻 Technical Skills </h2>
 
@@ -40,9 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![FormAssembly](https://img.shields.io/badge/-FormAssembly-0D47A1?style=flat)
-
 
 <h2> 🤳 Connect with me:</h2>
 
